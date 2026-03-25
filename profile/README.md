@@ -9,23 +9,23 @@ The Malaysian OSINT Community (MOC) is established to build practical OSINT skil
 ## Quick Links
 
 - WhatsApp Waiting Room (Primary Entry): **[Still in Consideration]**
-- Community Rules: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-- Legal & Ethical Notice: [DISCLAIMER.md](DISCLAIMER.md)
-- Member Intro Format: [TEMPLATES.md](TEMPLATES.md)
-- New Member Onboarding: [guides/ONBOARDING.md](guides/ONBOARDING.md)
-- Weekly Activities: [guides/ENGAGEMENT.md](guides/ENGAGEMENT.md)
-- Starter Tool List: [resources/TOOLS.md](resources/TOOLS.md)
-- Contribution Guide: [CONTRIBUTING.md](CONTRIBUTING.md)
-- Issue Template: [.github/ISSUE_TEMPLATE/community-report.md](.github/ISSUE_TEMPLATE/community-report.md)
-- PR Template: [.github/pull_request_template.md](.github/pull_request_template.md)
+- Community Rules: [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md)
+- Legal & Ethical Notice: [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md)
+- Member Intro Format: [TEMPLATES.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/TEMPLATES.md)
+- New Member Onboarding: [guides/ONBOARDING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ONBOARDING.md)
+- Weekly Activities: [guides/ENGAGEMENT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ENGAGEMENT.md)
+- Starter Tool List: [resources/TOOLS.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/resources/TOOLS.md)
+- Contribution Guide: [CONTRIBUTING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CONTRIBUTING.md)
+- Issue Template: [.github/ISSUE_TEMPLATE/community-report.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/.github/ISSUE_TEMPLATE/community-report.md)
+- PR Template: [.github/pull_request_template.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/.github/pull_request_template.md)
 
 ## Getting Started
 
 1. Join the **WhatsApp Waiting Room** using the link above **[Still in Consideration]**.
-2. Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and [DISCLAIMER.md](DISCLAIMER.md) in full.
-3. Configure WhatsApp privacy settings using [guides/ONBOARDING.md](guides/ONBOARDING.md).
-4. Introduce yourself using the copy-ready format in [TEMPLATES.md](TEMPLATES.md).
-5. Participate in weekly practice events listed in [guides/ENGAGEMENT.md](guides/ENGAGEMENT.md).
+2. Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md) in full.
+3. Configure WhatsApp privacy settings using [guides/ONBOARDING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ONBOARDING.md).
+4. Introduce yourself using the copy-ready format in [TEMPLATES.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/TEMPLATES.md).
+5. Participate in weekly practice events listed in [guides/ENGAGEMENT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ENGAGEMENT.md).
 
 ## Core Principles
 
@@ -36,4 +36,4 @@ The Malaysian OSINT Community (MOC) is established to build practical OSINT skil
 
 ---
 
-For governance, moderation, and conduct escalation, refer to [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+For governance, moderation, and conduct escalation, refer to [CODE_OF_CONDUCT.md](../org-handbook/CODE_OF_CONDUCT.md).
