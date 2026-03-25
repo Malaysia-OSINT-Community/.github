@@ -1,3 +1,5 @@
+![MOC Banner](moc_banner.jpg)
+
 # Malaysian OSINT Community (MOC)
 
 A technical, ethical, and community-driven initiative focused on strengthening Open-Source Intelligence (OSINT) capability in Malaysia.
@@ -22,7 +24,7 @@ The Malaysian OSINT Community (MOC) is established to build practical OSINT skil
 ## Getting Started
 
 1. Join the **WhatsApp Waiting Room** using the link above **[Still in Consideration]**.
-2. Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md) in full.
+2. Read [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md) and [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md) in full.
 3. Configure WhatsApp privacy settings using [guides/ONBOARDING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ONBOARDING.md).
 4. Introduce yourself using the copy-ready format in [TEMPLATES.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/TEMPLATES.md).
 5. Participate in weekly practice events listed in [guides/ENGAGEMENT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ENGAGEMENT.md).
@@ -36,4 +38,4 @@ The Malaysian OSINT Community (MOC) is established to build practical OSINT skil
 
 ---
 
-For governance, moderation, and conduct escalation, refer to [CODE_OF_CONDUCT.md](../org-handbook/CODE_OF_CONDUCT.md).
+For governance, moderation, and conduct escalation, refer to [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md).
