@@ -2,40 +2,61 @@
 
 # Malaysian OSINT Community (MOC)
 
-A technical, ethical, and community-driven initiative focused on strengthening Open-Source Intelligence (OSINT) capability in Malaysia.
+The Malaysian OSINT Community (MOC) is a professional learning community focused on lawful, ethical, and responsible Open-Source Intelligence (OSINT) practice in Malaysia.
 
-## Mission Statement
+## Mission
 
-The Malaysian OSINT Community (MOC) is established to build practical OSINT skills, responsible digital investigation habits, and collaborative analytical thinking among practitioners in Malaysia. We promote lawful, ethical, and evidence-based OSINT tradecraft for education, research, and public-interest learning.
+MOC exists to strengthen practical OSINT capability through education, ethical research, defensive awareness, and evidence-based analytical learning. We support legitimate public-interest learning while protecting privacy, community safety, and professional standards.
 
-## Quick Links
+## What MOC Is
 
-- WhatsApp Waiting Room (Primary Entry): **[Still in Consideration]**
-- Community Rules: [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md)
-- Legal & Ethical Notice: [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md)
-- Member Intro Format: [TEMPLATES.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/TEMPLATES.md)
-- New Member Onboarding: [guides/ONBOARDING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ONBOARDING.md)
-- Weekly Activities: [guides/ENGAGEMENT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ENGAGEMENT.md)
-- Starter Tool List: [resources/TOOLS.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/resources/TOOLS.md)
-- Contribution Guide: [CONTRIBUTING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CONTRIBUTING.md)
-- Issue Template: [.github/ISSUE_TEMPLATE/community-report.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/.github/ISSUE_TEMPLATE/community-report.md)
-- PR Template: [.github/pull_request_template.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/.github/pull_request_template.md)
+- A skills and practice community for OSINT methods, tradecraft discipline, and source verification.
+- A learning environment grounded in lawful, ethical, and responsible conduct.
+- A low-ego, collaborative space guided by Ikut Resmi Padi: stay grounded, stay respectful, keep learning.
 
-## Getting Started
+## What MOC Is Not
 
-1. Join the **WhatsApp Waiting Room** using the link above **[Still in Consideration]**.
-2. Read [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md) and [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md) in full.
-3. Configure WhatsApp privacy settings using [guides/ONBOARDING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ONBOARDING.md).
-4. Introduce yourself using the copy-ready format in [TEMPLATES.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/TEMPLATES.md).
-5. Participate in weekly practice events listed in [guides/ENGAGEMENT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ENGAGEMENT.md).
+- Not a platform for harassment, doxxing, intimidation, or targeted abuse.
+- Not an authority that authorises investigations, surveillance, data collection, or operational targeting.
+- Not a source of legal advice, compliance certification, or law-enforcement services.
 
-## Core Principles
+## Policy Documents and How They Fit Together
 
-- **Legality First**: No unlawful access, acquisition, or misuse of data.
-- **Ethics by Default**: Respect privacy, consent boundaries, and harm reduction.
-- **Evidence Integrity**: Maintain clear sources, timestamps, and reproducibility.
-- **Community Growth**: Share methods, not abuse vectors.
+- [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md): behavioural rules, prohibited conduct, reporting, and moderation enforcement.
+- [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md): legal and ethical scope, no authorisation, no legal advice, and individual responsibility boundaries.
+- [guides/ONBOARDING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ONBOARDING.md): practical onboarding baseline, including privacy and cyber-hygiene steps.
 
----
+Read the Code of Conduct and Disclaimer first before participating.
 
-For governance, moderation, and conduct escalation, refer to [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md).
+## Membership Application
+
+New applicants must submit the verification check form below:
+
+- [MOC Membership Application](https://forms.gle/8MQFrFH6LpU3jTrz7)
+
+Applications are manually verified to protect members. Typical processing time is 1 to 3 working days.
+MOC Operations team will contact the applicant via WhatsApp.
+
+## New Member Start Here
+
+1. Read [CODE_OF_CONDUCT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CODE_OF_CONDUCT.md) in full.
+2. Read [DISCLAIMER.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/DISCLAIMER.md) in full.
+3. Complete privacy setup in [guides/ONBOARDING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ONBOARDING.md).
+4. Use [TEMPLATES.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/TEMPLATES.md) for your introduction format when requested.
+5. Join weekly learning activities in [guides/ENGAGEMENT.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/guides/ENGAGEMENT.md)).
+
+## Community Practice Priorities
+
+- Legality first.
+- Ethics by default.
+- Privacy and harm reduction.
+- Reproducible evidence and source integrity.
+- Professional conduct and community safety.
+
+## Contributing and Reporting
+
+- Contribution guide: [CONTRIBUTING.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/CONTRIBUTING.md)
+- Community report template: [.github/ISSUE_TEMPLATE/community-report.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/.github/ISSUE_TEMPLATE/community-report.md)
+- Pull request template: [.github/pull_request_template.md](https://github.com/Malaysia-OSINT-Community/org-handbook/blob/master/.github/pull_request_template.md)
+
+If you are unsure whether an activity is appropriate, do not proceed and ask moderators first.
